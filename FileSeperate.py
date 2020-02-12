@@ -11,7 +11,7 @@ for each_line in file:
             exec(Users[i] + ".write('======')")
             exec(Users[i] + ".write('''\\n''')")
     else:
-        SpLine = ReadL.split(sep=':', maxsplit=2)
+        SpLine = ReadL.split(sep=':', maxsplit=1)
         print(SpLine)
         Flag_1 = SpLine[0] not in Users and SpLine[0] != '\n'
         if Flag_1:

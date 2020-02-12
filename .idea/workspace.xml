@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e7d056e-4d8e-4830-b08e-3bae71d1924a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Model_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileSeperate.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileSeperate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileStudy_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileStudy_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +14,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonLearn1$sequence.coverage" NAME="sequence Coverage Results" MODIFIED="1581252999442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearn1$Rabit.coverage" NAME="Rabit Coverage Results" MODIFIED="1581435659453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$BasicCalcu.coverage" NAME="BasicCalcu Coverage Results" MODIFIED="1581159549510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearn1$FileStudy_1.coverage" NAME="FileStudy_1 Coverage Results" MODIFIED="1581495392301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearn1$function_1.coverage" NAME="function_1 Coverage Results" MODIFIED="1581330678987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearn1$FileSeperate.coverage" NAME="FileSeperate Coverage Results" MODIFIED="1581499548332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$Model_1.coverage" NAME="Model_1 Coverage Results" MODIFIED="1581512902068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$AnonymousFun.coverage" NAME="AnonymousFun Coverage Results" MODIFIED="1581330911052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearn1$Hash_Dictionary.coverage" NAME="Hash_Dictionary Coverage Results" MODIFIED="1581415609966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearn1$Set_1.coverage" NAME="Set_1 Coverage Results" MODIFIED="1581435637695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$BiultinFunc_1.coverage" NAME="BiultinFunc_1 Coverage Results" MODIFIED="1581331486118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$Recurrence.coverage" NAME="Recurrence Coverage Results" MODIFIED="1581332517197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$TowerOfHanoi.coverage" NAME="TowerOfHanoi Coverage Results" MODIFIED="1581400023122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$Rabit.coverage" NAME="Rabit Coverage Results" MODIFIED="1581435659453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$FileStudy_1.coverage" NAME="FileStudy_1 Coverage Results" MODIFIED="1581495392301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$function_1.coverage" NAME="function_1 Coverage Results" MODIFIED="1581330678987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$FileSeperate.coverage" NAME="FileSeperate Coverage Results" MODIFIED="1581499548332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$Hash_Dictionary.coverage" NAME="Hash_Dictionary Coverage Results" MODIFIED="1581415609966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$Set_1.coverage" NAME="Set_1 Coverage Results" MODIFIED="1581435637695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -44,11 +46,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FileSeperate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="296">
+              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Model_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#5#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,15 +108,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BiultinFunc_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -174,6 +179,7 @@
         <option value="$PROJECT_DIR$/Filetest.txt" />
         <option value="$PROJECT_DIR$/FileStudy_1.py" />
         <option value="$PROJECT_DIR$/FileSeperate.py" />
+        <option value="$PROJECT_DIR$/Model_1.py" />
       </list>
     </option>
   </component>
@@ -184,8 +190,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="667" />
-    <option name="width" value="1260" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -250,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FileSeperate">
+  <component name="RunManager" selected="Python.Model_1">
     <configuration name="FileSeperate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearn1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hash_Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Model_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearn1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +314,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,18 +391,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Rabit" />
-      <item itemvalue="Python.Hash_Dictionary" />
       <item itemvalue="Python.Set_1" />
       <item itemvalue="Python.FileStudy_1" />
       <item itemvalue="Python.FileSeperate" />
+      <item itemvalue="Python.Model_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Model_1" />
         <item itemvalue="Python.FileSeperate" />
         <item itemvalue="Python.FileStudy_1" />
         <item itemvalue="Python.Rabit" />
         <item itemvalue="Python.Set_1" />
-        <item itemvalue="Python.Hash_Dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +417,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581152095854</updated>
       <workItem from="1581152099744" duration="14044000" />
-      <workItem from="1581315591127" duration="37516000" />
+      <workItem from="1581315591127" duration="42524000" />
     </task>
     <task id="LOCAL-00001" summary="git上传测试">
       <created>1581484418527</created>
@@ -427,11 +433,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581493626397</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完善FileSepereate，增加文档">
+      <created>1581499953244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581499953245</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51560000" />
+    <option name="totallyTimeSpent" value="56568000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,17 +456,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="534" y="0" width="1008" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.18670887" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.118791945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5021008" side_tool="true" weight="0.09060403" />
       <window_info anchor="bottom" id="GitHub Pull Requests" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978903" visible="true" weight="0.32808024" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49894515" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,15 +474,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.33144477" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021097" side_tool="true" visible="true" weight="0.32808024" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50201344" side_tool="true" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32577905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.4957507" weight="0.3281879" />
-      <window_info anchor="right" x="0" y="0" width="145" height="630" id="Documentation" order="4" sideWeight="0.5053305" side_tool="true" visible="true" weight="0.1592827" />
-      <window_info anchor="right" id="Database" order="5" sideWeight="0.4946695" visible="true" weight="0.1592827" />
+      <window_info anchor="right" x="0" y="0" width="145" height="630" id="Documentation" order="4" sideWeight="0.5052411" side_tool="true" visible="true" weight="0.10134228" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.4947589" visible="true" weight="0.10134228" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,22 +550,11 @@
     <MESSAGE value="first update" />
     <MESSAGE value="git上传测试" />
     <MESSAGE value="增加FileSepereate，完善FileStudy_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加FileSepereate，完善FileStudy_1" />
+    <MESSAGE value="完善FileSepereate，增加文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善FileSepereate，增加文档" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FileSeperate.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FileSeperate.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -687,8 +689,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FileSeperate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="296">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#5#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
