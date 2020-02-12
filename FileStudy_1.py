@@ -14,7 +14,7 @@
     'U'       universal newline mode (deprecated)
     ========= ===============================================================
 """
-file = open("Filetest.txt", 'r')
+file = open("Filetest.txt", 'r', encoding='UTF-8')
 print(file)
 print(file.read(6))  # 里面是字符数而不是字节数
 print(file.tell())
@@ -25,12 +25,12 @@ file.seek(0, 0)
 for each_line in file:
     print(each_line)
 file.close()
-file = open("Filetest.txt", 'a')
+file = open("Filetest.txt", 'a', encoding='UTF-8')
 file.seek(0, 2)
 file.write('Append\n')
 file.seek(0, 0)
 file.close()
-file = open("Filetest.txt", 'r')
+file = open("Filetest.txt", 'r', encoding='UTF-8')
 for each_line in file:
     print(each_line)
 # print(file.read(6))
