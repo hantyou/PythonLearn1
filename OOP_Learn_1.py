@@ -1,14 +1,17 @@
 # Object Oriented Programming
 import datetime
 
+# 一个类对象，还不能称作对象
+"""========================"""
+
 
 class Human(object):
-    def __init__(self, name, gender, Byear, Bmonth, Bday):
-        self.name = name
-        self.gender = gender
-        self.Byear = Byear
-        self.Bmonth = Bmonth
-        self.Bday = Bday
+    def __init__(self):
+        self.name = input("请输入学生姓名")
+        self.gender = input("请输入学生性别")
+        self.Byear = int(input("请输入学生出生年份"))
+        self.Bmonth = int(input("请输入学生出生月份"))
+        self.Bday = int(input("请输入学生出生日"))
 
     def calcYear(self, birth):
         nowy = datetime.date.today()
@@ -36,14 +39,12 @@ class Human(object):
         birthday = [self.Byear, self.Bmonth, self.Bday]
         age = self.calcYear(birthday)
         print('年龄：%d' % age)
-        print('='*10)
+        print('=' * 10)
 
 
-daniel = Human('Daniel', '男', 1999, 6, 11)
+"""========================"""
+# 下面每次给SL append一次，就产生了一个实例
 SL = []
-SL.append(Human('Jade', '女', 2000, 6, 12))
-SL.append(daniel)
-for i in range(len(SL)):
+for i in range(3):
+    SL.append(Human())
     SL[i].HumanInfo()
-
-
