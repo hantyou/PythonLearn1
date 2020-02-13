@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e7d056e-4d8e-4830-b08e-3bae71d1924a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ElseLearn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pickle_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI_Prog_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/withLearn_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElseLearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ElseLearn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +15,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonLearn1$sequence.coverage" NAME="sequence Coverage Results" MODIFIED="1581252999442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$ElseLearn.coverage" NAME="ElseLearn Coverage Results" MODIFIED="1581571642287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$GUI_Prog_1.coverage" NAME="GUI_Prog_1 Coverage Results" MODIFIED="1581574300198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$BasicCalcu.coverage" NAME="BasicCalcu Coverage Results" MODIFIED="1581159549510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$Model_1.coverage" NAME="Model_1 Coverage Results" MODIFIED="1581512902068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$Pickle_1.coverage" NAME="Pickle_1 Coverage Results" MODIFIED="1581557928779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn1$withLearn_1.coverage" NAME="withLearn_1 Coverage Results" MODIFIED="1581572348062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$AnonymousFun.coverage" NAME="AnonymousFun Coverage Results" MODIFIED="1581330911052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$BiultinFunc_1.coverage" NAME="BiultinFunc_1 Coverage Results" MODIFIED="1581331486118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearn1$Recurrence.coverage" NAME="Recurrence Coverage Results" MODIFIED="1581332517197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -58,11 +61,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElseLearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="38">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/withLearn_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUI_Prog_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -111,6 +132,8 @@
         <option value="$PROJECT_DIR$/Pickle_1.py" />
         <option value="$PROJECT_DIR$/exception.py" />
         <option value="$PROJECT_DIR$/ElseLearn.py" />
+        <option value="$PROJECT_DIR$/withLearn_1.py" />
+        <option value="$PROJECT_DIR$/GUI_Prog_1.py" />
       </list>
     </option>
   </component>
@@ -160,7 +183,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -187,8 +210,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exception">
-    <configuration name="FileSeperate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GUI_Prog_1">
+    <configuration name="ElseLearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearn1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,7 +224,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileSeperate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ElseLearn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,42 +233,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FileStudy_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GUI_Prog_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearn1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Programming\Python\PythonLearn1\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileStudy_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Model_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearn1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Programming\Python\PythonLearn1\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI_Prog_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,20 +318,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="withLearn_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearn1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programming\Python\PythonLearn1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/withLearn_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.FileStudy_1" />
-      <item itemvalue="Python.FileSeperate" />
-      <item itemvalue="Python.Model_1" />
       <item itemvalue="Python.Pickle_1" />
       <item itemvalue="Python.exception" />
+      <item itemvalue="Python.ElseLearn" />
+      <item itemvalue="Python.withLearn_1" />
+      <item itemvalue="Python.GUI_Prog_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GUI_Prog_1" />
+        <item itemvalue="Python.withLearn_1" />
+        <item itemvalue="Python.ElseLearn" />
         <item itemvalue="Python.exception" />
         <item itemvalue="Python.Pickle_1" />
-        <item itemvalue="Python.Model_1" />
-        <item itemvalue="Python.FileSeperate" />
-        <item itemvalue="Python.FileStudy_1" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +368,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581152095854</updated>
       <workItem from="1581152099744" duration="14044000" />
-      <workItem from="1581315591127" duration="48259000" />
+      <workItem from="1581315591127" duration="55724000" />
     </task>
     <task id="LOCAL-00001" summary="git上传测试">
       <created>1581484418527</created>
@@ -378,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581514695903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="学习Pickle，Try ... Except ...">
+      <created>1581567076365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581567076366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62303000" />
+    <option name="totallyTimeSpent" value="69768000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,30 +424,30 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.118791945" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5021008" side_tool="true" weight="0.09060403" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49563318" visible="true" weight="0.118791945" />
+      <window_info id="Structure" order="1" sideWeight="0.50440526" side_tool="true" weight="0.118791945" />
+      <window_info id="Favorites" order="2" sideWeight="0.5043668" side_tool="true" visible="true" weight="0.118791945" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" sideWeight="0.4986577" weight="0.3286119" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" weight="0.3352855" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49894515" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295129" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.33144477" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49798658" weight="0.33144477" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50201344" side_tool="true" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32577905" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49932885" weight="0.32577905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4957507" weight="0.3281879" />
-      <window_info anchor="right" x="0" y="0" width="145" height="630" id="Documentation" order="4" sideWeight="0.5052411" side_tool="true" visible="true" weight="0.10134228" />
-      <window_info anchor="right" id="Database" order="5" sideWeight="0.4947589" visible="true" weight="0.10134228" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49344978" weight="0.3281879" />
+      <window_info anchor="right" x="138" y="67" width="166" height="630" id="Documentation" order="4" sideWeight="0.5065502" side_tool="true" visible="true" weight="0.33489934" />
+      <window_info active="true" anchor="right" id="Database" order="5" sideWeight="0.49344978" visible="true" weight="0.33489934" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +517,8 @@
     <MESSAGE value="增加FileSepereate，完善FileStudy_1" />
     <MESSAGE value="完善FileSepereate，增加文档" />
     <MESSAGE value="2月12日保存上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="2月12日保存上传" />
+    <MESSAGE value="学习Pickle，Try ... Except ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="学习Pickle，Try ... Except ..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,6 +681,20 @@
     <entry file="file://$PROJECT_DIR$/Why I am a file.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/withLearn_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElseLearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exception.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -660,12 +702,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ElseLearn.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/easygui/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        <state relative-caret-position="-389">
+          <folding>
+            <element signature="e#746#785#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/easygui/easygui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="82" column="12" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/about.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/global_state.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/choice_box.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI_Prog_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
